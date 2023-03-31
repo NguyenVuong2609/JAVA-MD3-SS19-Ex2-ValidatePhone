@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dafcd95-bf0d-4c50-8e04-a8f66e81c140" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MD3-SS19-Ex1-ValidatePhone.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/ValidatePhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/ValidatePhoneTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="8dafcd95-bf0d-4c50-8e04-a8f66e81c140" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,10 +31,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Java/MD3-SS19-Ex3-CrawlNews",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -76,6 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1680238329799</updated>
       <workItem from="1680238331097" duration="478000" />
+      <workItem from="1680239160696" duration="31000" />
     </task>
     <servers />
   </component>
